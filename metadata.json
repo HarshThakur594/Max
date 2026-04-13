@@ -1,0 +1,7 @@
+{
+  "name": "Max AI Assistant",
+  "description": "A futuristic voice assistant with an Iron Man HUD interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
